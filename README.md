@@ -33,7 +33,17 @@ Bora Praticar
 
 11. git push origin :master main --force (Delete MASTER, e manter a MAIN
 
-12. Tipos de Commit
+12. git log (q = quit)
+
+13. git checkout -b nome-da-branch (New Branch, caso já exista, Trocar de Branch)
+
+14. git pull origin master (Atualiza seu repositório local, com o repositório da master)
+
+15. git restore (Restaura alguma classe que tenha alterado de forma não desejada)
+
+16. git remote -v (Forma de identificar qual branch atual)
+
+17. Tipos de Commit: git commit -m "feat: descrever manutenção"
 
 |  Commit  | Objetivo                                                    |
 | -------- | ----------------------------------------------------------- | 
