@@ -33,5 +33,21 @@ Bora Praticar
 
 11. git push origin :master main --force (Delete MASTER, e manter a MAIN
 
+12. Tipos de Commit
+
+| -------- | ----------------------------------------------------------- | 
+|  Commit  | Objetivo                                                    |
+| -------- | ----------------------------------------------------------- | 
+| feat     | Adicionar uma nova funcionalidade ao projeto                |
+| fix      | Correção de bugs do projeto                                 | 
+| docs     | Manutenção na documentação do projeto                       |
+| style    | Melhorias nos estilos, sem alteração de funcionalidades     |
+| refactor | Melhorias no código fonte, sem alteração de funcionalidades |
+| test     | Manutenção nos testes do projeto                            |
+| cleanup  | Remoção de códigos comentados, limpeza do código fonte      |
+| -------- | ----------------------------------------------------------- | 
+
+
+
  
 
