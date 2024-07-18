@@ -35,7 +35,6 @@ Bora Praticar
 
 12. Tipos de Commit
 
-| -------- | ----------------------------------------------------------- | 
 |  Commit  | Objetivo                                                    |
 | -------- | ----------------------------------------------------------- | 
 | feat     | Adicionar uma nova funcionalidade ao projeto                |
@@ -45,7 +44,7 @@ Bora Praticar
 | refactor | Melhorias no código fonte, sem alteração de funcionalidades |
 | test     | Manutenção nos testes do projeto                            |
 | cleanup  | Remoção de códigos comentados, limpeza do código fonte      |
-| -------- | ----------------------------------------------------------- | 
+
 
 
 
