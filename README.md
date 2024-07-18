@@ -45,15 +45,15 @@ Bora Praticar
 
 17. Tipos de Commit: git commit -m "feat: descrever manutenção"
 
-|  Commit  | Objetivo                                                    |
-| -------- | ----------------------------------------------------------- | 
-| feat     | Adicionar uma nova funcionalidade ao projeto                |
-| fix      | Correção de bugs do projeto                                 | 
-| docs     | Manutenção na documentação do projeto                       |
-| style    | Melhorias nos estilos, sem alteração de funcionalidades     |
-| refactor | Melhorias no código fonte, sem alteração de funcionalidades |
-| test     | Manutenção nos testes do projeto                            |
-| cleanup  | Remoção de códigos comentados, limpeza do código fonte      |
+|   Commit   | Objetivo                                                    |
+| ---------- | ----------------------------------------------------------- | 
+| [feat]     | Adicionar uma nova funcionalidade ao projeto                |
+| [fix]      | Correção de bugs do projeto                                 | 
+| [docs]     | Manutenção na documentação do projeto                       |
+| [style]    | Melhorias nos estilos, sem alteração de funcionalidades     |
+| [refactor] | Melhorias no código fonte, sem alteração de funcionalidades |
+| [test]     | Manutenção nos testes do projeto                            |
+| [cleanup]  | Remoção de códigos comentados, limpeza do código fonte      |
 
 
 
