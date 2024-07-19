@@ -94,8 +94,3 @@ Analista de sistemas há 27 anos, Sr em Tecnologias voltadas para MAINFRAME.
 ### Sistema operacional
 
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-
-
-
- 
-
